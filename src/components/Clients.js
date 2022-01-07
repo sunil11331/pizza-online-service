@@ -13,7 +13,7 @@ const Clients = () => {
           </div>
           <div className="col-3">
             <div className="client">
-              <h1>58</h1>
+              <h1>112</h1>
               <p>Pizza Types</p>
             </div>
           </div>
@@ -25,7 +25,7 @@ const Clients = () => {
           </div>
           <div className="col-3">
             <div className="client">
-              <h1>2031</h1>
+              <h1>3031</h1>
               <p>Delivery</p>
             </div>
           </div>

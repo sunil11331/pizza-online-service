@@ -12,7 +12,7 @@ const Menu = () => {
           </div>
           <div className="col-6 p-25">
             <h3>The Pizza Menu</h3>
-            <h1>CHICAGO THIN CRUST</h1>
+            <h1>DOMINO'S</h1>
             <p>
             Perfect hand-tossed crust, our homemade pizza sauce,
             loaded with diced ham, pineapple and mushrooms, and
