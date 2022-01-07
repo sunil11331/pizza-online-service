@@ -1,14 +1,9 @@
 import React from "react";
 
 const Prices = () => {
-  const handleClick = () => {
-    alert("you have added it to cart.")
-  }
-  return (
-    
+  const
 
     <div className="prices">
-      <div className="container">
         <div className="row" onClick={handleClick}>
           <div className="col-4">
             <div className="price">
